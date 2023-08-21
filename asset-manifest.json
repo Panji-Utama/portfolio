@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.926608bd.css",
-    "main.js": "/portfolio/static/js/main.62748192.js",
+    "main.css": "/portfolio/static/css/main.73895f87.css",
+    "main.js": "/portfolio/static/js/main.625f8e6c.js",
     "static/media/CV ATS_Firman Panji Utama.pdf": "/portfolio/static/media/CV ATS_Firman Panji Utama.9c9c0fe6069e85a1d3f6.pdf",
-    "static/media/berdua.png": "/portfolio/static/media/berdua.c4cc0c3e9cd0c260f084.png",
+    "static/media/me.png": "/portfolio/static/media/me.2d96d6d7a9ac962705d8.png",
+    "static/media/anime_me_no-bg.png": "/portfolio/static/media/anime_me_no-bg.44a95af54a0235173125.png",
     "index.html": "/portfolio/index.html",
-    "main.926608bd.css.map": "/portfolio/static/css/main.926608bd.css.map",
-    "main.62748192.js.map": "/portfolio/static/js/main.62748192.js.map"
+    "main.73895f87.css.map": "/portfolio/static/css/main.73895f87.css.map",
+    "main.625f8e6c.js.map": "/portfolio/static/js/main.625f8e6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.926608bd.css",
-    "static/js/main.62748192.js"
+    "static/css/main.73895f87.css",
+    "static/js/main.625f8e6c.js"
   ]
 }
