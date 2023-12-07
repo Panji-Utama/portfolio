@@ -14,34 +14,46 @@ const Experience = () => {
           <h3>Frontend</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>HTML</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>HTML</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>CSS</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>CSS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>JavaScript</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>JavaScript</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>Bootstrap</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Bootstrap</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>Tailwind</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Tailwind</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>Beginner</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Beginner</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
@@ -51,34 +63,46 @@ const Experience = () => {
           <h3>Backend</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>Golang</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Golang</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>NodeJS</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>NodeJS</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>PHP</h4>
-              <small className="text-light">Beginner</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>PHP</h4>
+                <small className="text-light">Beginner</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>MySQL</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>MySQL</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>MongoDB</h4>
-              <small className="text-light">Beginner</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>MongoDB</h4>
+                <small className="text-light">Beginner</small>
+              </div>
             </article>
             <article className="experience__details">
-              <PiSealCheckFill />
-              <h4>Firebase</h4>
-              <small className="text-light">Intermediate</small>
+              <PiSealCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Firebase</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
             </article>
           </div>
         </div>
